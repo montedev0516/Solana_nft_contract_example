@@ -1,4 +1,4 @@
-# What's this?
+# Rust Anchor Smart Contract for NFT
 
 This repository is example for showing how to mint NFT in solana and manage it.
 
@@ -21,10 +21,6 @@ This contains:
 
 # How to run?
 - Clone this repo
-    ```
-    git clone https://github.com/toygr/solana-nft-example.git
-    cd solana-nft-example
-    ```
 - Sync keys
     ```
     anchor keys list
